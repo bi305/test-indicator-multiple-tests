@@ -1,0 +1,87 @@
+Test,Result,Indicator
+GGT,High,Alcohol abuse Liver Disease
+GGT,High,Congestive Heart Failure
+GGT,High,Drugs: NSAIDs
+GGT,High,Drugs: Lipid lowering drugs
+GGT,High,Drugs: Antibiotics
+GGT,High,Drugs: Histamine Blockers
+GGT,High,Drugs: Antifungals
+GGT,High,Drugs: anticonvulsants
+GGT,High,Drugs: antidepressants
+GGT,High,Drugs: testoserone
+MY TEST,Low,No concern
+MY TEST,Low,unlikely liver disease
+MY TEST,Low,Drugs: Oral contraceptives
+MY TEST,Low,Drugs: Clofibrate
+MY TEST,Low,My indicator
+AST,Moderate,If <4x ULN liver disease
+AST,Moderate,chronic hepatits
+AST,Moderate,alcohol abuse
+AST,Moderate,cholesasis
+AST,Moderate,heart disease
+AST,Moderate,kidney disease
+AST,Moderate,skeletal muscle damage
+AST,Moderate,haemolysis
+AST,Mild,Cirrhosis
+AST,Mild,Chornic viral hepatitis
+AST,Mild,chronic alcoholism
+AST,Mild,NAFLD
+AST,Mild,liver cancers
+AST,Mild,(history of liver disease)
+ALT,High,>10 x ULN) acute hepatitis: Virus
+ALT,Moderate,<4 x ULN
+ALT,Moderate,chronic hepatitis
+ALT,Moderate,alcohol abuse
+ALT,Moderate,diabetes
+ALT,Moderate,rasied TGL
+ALT,Mild,Cholestasis
+ALT,Mild,Cirrhosis
+ALT,Mild,Liver cancer
+ALP,High,"Pagets, Osteomalacia, Bone Mets, Vit D deficiency)"
+ALP,High,Osteomalacia
+ALP,High,Bone Mets
+ALP,High,Vit D deficiency
+Bilrubin,High (total/unconj),Liver disease
+Bilrubin,High (total/unconj),Haemolytic anaemcia
+Bilrubin,High (total/unconj),Sickle cell aanaemia
+Bilrubin,High (total/unconj),Pernicious anaemia
+Bilrubin,High (total/unconj),transfusion reaction
+Bilrubin,High (conj),Blockage of liver/bile
+Bilrubin,High (conj),"hepatitis,"
+Bilrubin,High (conj),liver trauma
+Bilrubin,High (conj),cirrhosis
+Bilrubin,High (conj),drug reaction
+Bilrubin,High (conj),long term alcohol abuse
+Bilrubin,High,Gilberts
+Bilrubin,High,Dubin Johnson
+Bilrubin,High,Rotors
+Bilrubin,High,Crigler-Najjar
+Calcium,High,Hyperparathyroidism: benign tumour
+Calcium,High,Cancer
+Calcium,High,Hyperthyroidism
+Calcium,High,Sarcoidosis
+Calcium,High,Tuberculosis
+Calcium,High,Lithium treatment
+Calcium,High,Prolonged immobilisation
+Calcium,High,Acute kidney injury
+Calcium,High,excess Vit D intake
+Calcium,Low,Low albumin Liver disase
+Calcium,Low,malnuitririon
+Calcium,Low,Vit D deficiency
+Calcium,Low,Reduced dietary calcium
+Calcium,Low,Hypoparathyroidism
+Calcium,Low,Magnesium deficiency
+Calcium,Low,pancreatitis
+Calcium,Low,CKD
+Calcium,Low,Ostemolacia/rickets
+Phosphate,Low,Alcoholism
+Phosphate,Low,Mlanutirtion
+Phosphate,Low,Hypercalcaemia
+Phosphate,Low,diretics
+Phosphate,Low,severe burns
+Phosphate,Low,DKA (after tx)
+Phosphate,Low,Hypothyroidism
+Phosphate,Low,Hypokalaemia
+Phosphate,Low,Chronic antacid use
+Phosphate,Low,Vid D deficiencies
+Phosphate,Low,Increased insulin production
